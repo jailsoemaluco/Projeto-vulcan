@@ -13,7 +13,7 @@
 # Registro de Participação
 ## Para comprovar a participação de cada integrante, realizamos esses curto relatório onde está as anotações do que cada estudande realizou no projeto, assim será possível verificar de forma amis clara e justa.
 ### 1. Lucas Augusto
-- Fez o código proposto no problema do Integrante A e realizou a parte escrita do seu tema
+- O estudante realizou o código do desafio proposto para o Integrante A, montou a parte escrita dos motor e participou da discussão da equipe.
 ---
 ### 2. Lavínia Aguiar
 
