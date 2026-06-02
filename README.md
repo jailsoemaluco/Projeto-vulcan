@@ -19,10 +19,10 @@
 
 ---
 ### 3. Jailson Santana
-
+O estudante realizou o código do deasfio proposto para o integrante B, ajudou a montar a parte escrita e participou da dicussão da equipe).
 ---
 ### 4. Maria Eduarda Oliveira
-
+A estudante participou da discussão da equipe, foi quem montou o relatório e a parte escrita dos sensores (problema do Integrante B).
 ---
 ### 5. Matheus Bernado 
 
