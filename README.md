@@ -11,7 +11,7 @@
 - Com esta separação, todos puderam cumprir ao menos alguma coisa no projeto, fazendo com que ninguém ficasse sem algo a fazer, ou fica-se sobrecarregado.
 ---
 # Registro de Participação
-## Para comprovar a participação de cada integrante, realizamos esses curto relatório onde está as anotações do que cada estudande realizou no projeto, assim será possível verificar de forma amis clara e justa.
+## Para comprovar a participação de cada integrante, realizamos esses curto relatório onde está as anotações do que cada estudande realizou no projeto, assim será possível verificar de forma mais clara e justa.
 ### 1. Lucas Augusto
 - O estudante realizou o código do desafio proposto para o Integrante A, montou a parte escrita dos motor e participou da discussão da equipe.
 ---
