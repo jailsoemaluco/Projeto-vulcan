@@ -27,3 +27,6 @@ A estudante participou da discussão da equipe, foi quem montou o relatório e a
 ### 5. Matheus Bernado 
 
 ---
+
+### Observações
+- O grupo acabou enfrentando dificuldades com os códigos propostos durante sua fase inicial, porém conforme o trabalho foi avançando, essas dificuldades foram superadas em grupo e  os erros foram corrigidos.
