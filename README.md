@@ -16,7 +16,7 @@
 - O estudante realizou o código do desafio proposto para o Integrante A, montou a parte escrita dos motor e participou da discussão da equipe.
 ---
 ### 2. Lavínia Aguiar
-- 
+- Produziu a parte do terminal dentro do codigo da pessoa C
 ---
 ### 3. Jailson Santana
 - O estudante realizou o código do deasfio proposto para o integrante B, ajudou a montar a parte escrita e participou da dicussão da equipe).
@@ -25,7 +25,7 @@
 - A estudante participou da discussão da equipe, foi quem montou o relatório e a parte escrita dos sensores (problema do Integrante B).
 ---
 ### 5. Matheus Bernado 
--
+- Definiu os valores aos dados dos codigos das pessoas a e b, alem de usar o "require" para exportar e importar as funções das pessoas a e b.
 ---
 
 ### Observações
