@@ -79,3 +79,36 @@
 - objeto - estrutura que armazena dados em pares de chave e valor, como temperatura, soma, media e status
 ----
 ### 6. Código feito 
+
+let temperatura = [];
+let soma = 0
+let media = 0
+let status = 0 
+
+function sensor (temperatura) {
+for(let i = 0; i < temperatura.length; i++){
+
+    soma+=temperatura[i]
+    
+}
+
+media  = soma/temperatura.length
+
+if(media < 15){
+    status = ("Atenção!!!. Temperatura muito baixa, aquecedores necessários")
+   
+}else if(media >= 15 && media <= 25){
+        status = ("Temperatura ideal")
+}else{
+   status = ("\nTemperatura fora do ideal!!! ligue o resfriamento!!!")
+    }
+
+    return {
+temperatura: temperatura,
+soma: soma,
+media: media,
+status: status
+    }
+}
+
+module.exports = {sensor}
